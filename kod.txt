@@ -1,1 +1,3 @@
 print ("hello world")
+print ("promqna w git")
+print ("commitwam promenite")
